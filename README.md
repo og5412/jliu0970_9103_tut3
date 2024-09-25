@@ -1,4 +1,4 @@
-# **Week8quiz**
+# **Quiz8**
 
 ## **Part 1: Imaging Technique Inspiration**
 My choice is on Audio Visualization, through the image, [butterfly is composed of countless particles that dynamically change by sound input.](https://www.bilibili.com/video/BV1as4y1N7f7/?spm_id_from=333.788.recommend_more_video.3&vd_source=68ebe7b4dac4b16b61a7855377486938)
