@@ -8,10 +8,15 @@ My choice is on Audio Visualization, through the image, [butterfly is composed o
 - In the major project, the artwork is generated in real time with sound. The audience's voices make the visual output, greatly enhancing interactivity.Fits the audio direction.
 
 ![Butterfly1](Images/coding3.png)
+
+> Before the sound input
+
 ![Butterfly2](Images/coding4.png)
 
+> After the sound input
+
 ## **Part 2: Coding Technique Exploration**
-- Use the **'AudioIn( )'** and **'FFT( )'** functions of a simple waveform to analyze the sound input to control the generation of elements, and replace the drawing function with the spawn particle function. ([Particle System](https://editor.p5js.org/p5/sketches/Simulate:_Particle))/([Simple-waveform](https://editor.p5js.org/js6450/sketches/G_I1ETvJp))
+Use the **`AudioIn( )`** and **`FFT( )`** functions of a simple waveform to analyze the sound input to control the generation of elements, and replace the drawing function with the spawn particle function. ([Particle System](https://editor.p5js.org/p5/sketches/Simulate:_Particle))/([Simple-waveform](https://editor.p5js.org/js6450/sketches/G_I1ETvJp))
 
 - Sound data influences the quantity of particles; soft sounds create fewer particles, loud sounds create more. 
 
@@ -23,4 +28,8 @@ My choice is on Audio Visualization, through the image, [butterfly is composed o
 ![Particle System1](Images/coding1.png)
 ![Particle System2](Images/coding2.png)
 
+> Different sound data make different vissual effects.
+
 ![Simple-waveform](Images/coding5.png)
+
+> The painting is composed of floating particles.
